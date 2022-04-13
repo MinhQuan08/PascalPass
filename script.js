@@ -4,11 +4,11 @@ document.getElementById('todo1').onclick = function(e)
   
   if (this.checked)
   {
-    textTodo.innerHTML = "Mua ô <del>tô</del>";
+    textTodo.innerHTML = "0000";
   }
   else
   {
-    textTodo.innerHTML = "Mua ô tô";
+    textTodo.innerHTML = "Nguyễn Minh Quân";
   }
 }
 
@@ -19,11 +19,11 @@ document.getElementById('todo2').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "Tiết kiệm 200.000<del>.000</del>";
+    textTodo.innerHTML = "0001";
   }
   else
   {
-    textTodo.innerHTML = "Tiết kiệm 200.000.000";
+    textTodo.innerHTML = "Nguyễn Thành Đạt";
   }
 }
 
@@ -33,11 +33,11 @@ document.getElementById('todo3').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "Có cái NỊT";
+    textTodo.innerHTML = "";
   }
   else
   {
-    textTodo.innerHTML = "Có crush :>";
+    textTodo.innerHTML = "";
   }
 }
 
@@ -47,11 +47,11 @@ document.getElementById('todo4').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "<del>Giảm</del> béo thành công 5kg";
+    textTodo.innerHTML = "";
   }
   else
   {
-    textTodo.innerHTML = "Giảm béo thành công 5kg";
+    textTodo.innerHTML = "";
   }
 }
 
@@ -61,10 +61,10 @@ document.getElementById('todo5').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "Sống <del>cuộc sống an nhàn</del>";
+    textTodo.innerHTML = "";
   }
   else
   {
-    textTodo.innerHTML = "Sống cuộc sống an nhàn";
+    textTodo.innerHTML = "";
   }
 }
