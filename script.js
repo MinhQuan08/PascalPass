@@ -33,11 +33,11 @@ document.getElementById('todo3').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "1187";
   }
   else
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "Mã Chiến Thắng";
   }
 }
 
@@ -47,11 +47,11 @@ document.getElementById('todo4').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "9957";
   }
   else
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "Vũ Xuân Trường";
   }
 }
 
@@ -61,10 +61,10 @@ document.getElementById('todo5').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "8762";
   }
   else
   {
-    textTodo.innerHTML = "";
+    textTodo.innerHTML = "Triệu Vỹ";
   }
 }
